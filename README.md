@@ -1,3 +1,11 @@
+![image](https://github.com/Vidhi093/student-management-system/assets/149268685/27640685-d396-40d9-b8ac-7ad8ed9ec923)
+![image](https://github.com/Vidhi093/student-management-system/assets/149268685/56c4206e-ce7a-496b-a4a2-0284fb8a2e33)
+![image](https://github.com/Vidhi093/student-management-system/assets/149268685/17bdfe7b-492c-476c-8916-9502fcef71d9)
+![image](https://github.com/Vidhi093/student-management-system/assets/149268685/1a3116f6-ada6-48f8-a160-28bfe2c130b5)
+![image](https://github.com/Vidhi093/student-management-system/assets/149268685/51e6d7be-6892-4c1e-b882-3e6c9b53e570)
+![image](https://github.com/Vidhi093/student-management-system/assets/149268685/4d38168f-7bfd-4465-844c-a761930efefe)
+
+
 ### 1. LoginServlet
 
 #### Purpose:
